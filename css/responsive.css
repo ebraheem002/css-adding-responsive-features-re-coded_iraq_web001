@@ -19,14 +19,14 @@
 
 
 
-#log h1{
+  #log h1{
   
   height:35px;
 }
-#log h2 {
+  #log h2 {
   font-size:2.2em;
 }
-#social{
+  #social{
   top:72px;
 
 }
@@ -37,6 +37,7 @@
 
 @media only screen and(max-width:750px){
   #navbar nav a{
-    font-size0.9em;
+    font-size:0.9em;
   } 
+  column-count:;
 }
