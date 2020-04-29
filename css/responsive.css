@@ -17,6 +17,8 @@
   
 }
 
+
+
 #log h1{
   
   height:35px;
@@ -26,6 +28,10 @@
 }
 #social{
   top:72px;
+
+}
+.col-3 p{
+  column-count:2;
 }
 }
 
